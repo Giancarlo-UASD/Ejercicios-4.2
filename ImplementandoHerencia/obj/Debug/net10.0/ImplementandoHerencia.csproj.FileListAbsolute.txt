@@ -1,0 +1,15 @@
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.AssemblyInfoInputs.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.AssemblyInfo.cs
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.sourcelink.json
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\bin\Debug\net10.0\ImplementandoHerencia.exe
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\bin\Debug\net10.0\ImplementandoHerencia.deps.json
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\bin\Debug\net10.0\ImplementandoHerencia.runtimeconfig.json
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\bin\Debug\net10.0\ImplementandoHerencia.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\bin\Debug\net10.0\ImplementandoHerencia.pdb
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\refint\ImplementandoHerencia.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.pdb
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ImplementandoHerencia.genruntimeconfig.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Lenguajes de programacion\Unidad 4\Ejercicio 4.2\Ejercicios-4.2\ImplementandoHerencia\obj\Debug\net10.0\ref\ImplementandoHerencia.dll
